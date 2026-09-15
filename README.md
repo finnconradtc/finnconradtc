@@ -1,4 +1,4 @@
-# Hey, ich bin Finn 👋
+# Hey, I'm Finn 👋
 
 <div style="display: flex; justify-content: flex-start; align-items: center;">
   <div style="background-color: #2f3136; padding: 10px; border-radius: 10px; width: fit-content;">
@@ -7,6 +7,8 @@
     </a>
   </div>
 </div>
+
+![Profile views](https://komarev.com/ghpvc/?username=finnconradtc&style=flat-square&color=blue)
 
 ---
 
@@ -28,3 +30,11 @@
 
 ![Stats](https://DEINE-URL.vercel.app/api?username=finnconradtc&show_icons=true&hide_border=true&theme=dark)
 ![Languages](https://DEINE-URL.vercel.app/api/top-langs/?username=finnconradtc&layout=compact&hide_border=true&theme=dark)
+
+---
+
+### 📫 Contact
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1314991090616766564)
+[![Website](https://img.shields.io/badge/Xavo-000000?style=flat-square&logo=vercel&logoColor=white)](https://DEINE-WEBSITE.de)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:DEINE@MAIL.de)
