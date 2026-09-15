@@ -16,6 +16,15 @@
   <img src="https://komarev.com/ghpvc/?username=finnconradtc&style=flat-square&color=blue&label=Profile+views" alt="Profile views">
 </p>
 
+<h3 align="center">👨‍💻 About</h3>
+
+<p align="center">
+  🎓 Angehender Fachinformatiker (Anwendungsentwicklung)<br>
+  💻 Baue Websites &amp; Hosting für kleine Unternehmen unter <b>Xavo</b><br>
+  🌱 Aktuell tiefer drin in C# &amp; .NET<br>
+  ⚡ Fun fact: mag cleane, tool-artige Interfaces mehr als Hochglanz
+</p>
+
 <h3 align="center">🛠️ Stack</h3>
 
 <p align="center">
