@@ -19,7 +19,7 @@
 <h3 align="center">👨‍💻 About</h3>
 
 <p align="center">
-  🎓 &nbsp;Training as a software developer (Fachinformatiker — Application Development)<br>
+  🎓 &nbsp;Training as a software developer (Fachinformatiker Application Development)<br>
   💻 &nbsp;Building websites &amp; hosting for small businesses at <b>Xavo</b><br>
   🌱 &nbsp;Currently going deeper into C# &amp; .NET<br>
   ⚡ &nbsp;I like clean, tool-like interfaces over glossy ones
