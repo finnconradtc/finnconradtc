@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/finnconradtc">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Fachinformatiker+in+training;Building+web+things+with+Xavo;TypeScript+%C2%B7+C%23+%C2%B7+Node.js" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Software+developer+in+training;Building+web+things+with+Xavo;TypeScript+%C2%B7+C%23+%C2%B7+Node.js" alt="Typing SVG">
   </a>
 </p>
 
@@ -19,10 +19,10 @@
 <h3 align="center">👨‍💻 About</h3>
 
 <p align="center">
-  🎓 Angehender Fachinformatiker (Anwendungsentwicklung)<br>
-  💻 Baue Websites &amp; Hosting für kleine Unternehmen unter <b>Xavo</b><br>
-  🌱 Aktuell tiefer drin in C# &amp; .NET<br>
-  ⚡ Fun fact: mag cleane, tool-artige Interfaces mehr als Hochglanz
+  🎓 &nbsp;Training as a software developer (Fachinformatiker — Application Development)<br>
+  💻 &nbsp;Building websites &amp; hosting for small businesses at <b>Xavo</b><br>
+  🌱 &nbsp;Currently going deeper into C# &amp; .NET<br>
+  ⚡ &nbsp;I like clean, tool-like interfaces over glossy ones
 </p>
 
 <h3 align="center">🛠️ Stack</h3>
