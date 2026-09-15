@@ -1,6 +1,12 @@
 <h1 align="center">Hey, I'm Finn 👋</h1>
 
 <p align="center">
+  <a href="https://github.com/finnconradtc">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Fachinformatiker+in+training;Building+web+things+with+Xavo;TypeScript+%C2%B7+C%23+%C2%B7+Node.js" alt="Typing SVG">
+  </a>
+</p>
+
+<p align="center">
   <a href="https://discord.com/users/1314991090616766564">
     <img src="https://lanyard.cnrad.dev/api/1314991090616766564" alt="Discord Presence">
   </a>
@@ -9,6 +15,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=finnconradtc&style=flat-square&color=blue&label=Profile+views" alt="Profile views">
 </p>
+
+---
 
 <h3 align="center">🛠️ Stack</h3>
 
@@ -32,11 +40,15 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
 </p>
 
+---
+
 <h3 align="center">📈 Activity</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/finnconradtc/finnconradtc/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake">
 </p>
+
+---
 
 <h3 align="center">📫 Contact</h3>
 
