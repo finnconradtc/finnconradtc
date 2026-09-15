@@ -16,8 +16,6 @@
   <img src="https://komarev.com/ghpvc/?username=finnconradtc&style=flat-square&color=blue&label=Profile+views" alt="Profile views">
 </p>
 
----
-
 <h3 align="center">🛠️ Stack</h3>
 
 <p align="center">
@@ -40,15 +38,11 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
 </p>
 
----
-
 <h3 align="center">📈 Activity</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/finnconradtc/finnconradtc/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake">
 </p>
-
----
 
 <h3 align="center">📫 Contact</h3>
 
