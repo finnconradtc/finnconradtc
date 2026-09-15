@@ -24,6 +24,20 @@
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua">
 </p>
 
+<h3 align="center">🧰 Tools</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Rider-000000?style=flat-square&logo=rider&logoColor=white" alt="Rider">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
+</p>
+
+<h3 align="center">📈 Activity</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/finnconradtc/finnconradtc/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake">
+</p>
+
 <h3 align="center">📫 Contact</h3>
 
 <p align="center">
