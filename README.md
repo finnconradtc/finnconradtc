@@ -26,5 +26,5 @@
 
 ### 📊 GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=finnconradtc&show_icons=true&hide_border=true&theme=dark)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=finnconradtc&layout=compact&hide_border=true&theme=dark)
+![Stats](https://DEINE-URL.vercel.app/api?username=finnconradtc&show_icons=true&hide_border=true&theme=dark)
+![Languages](https://DEINE-URL.vercel.app/api/top-langs/?username=finnconradtc&layout=compact&hide_border=true&theme=dark)
