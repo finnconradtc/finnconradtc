@@ -22,7 +22,7 @@
   🎓 &nbsp;Training as a software developer (Fachinformatiker Application Development)<br>
   💻 &nbsp;Building websites &amp; hosting for small businesses at <b>Xavo</b><br>
   🌱 &nbsp;Currently going deeper into C# &amp; .NET<br>
-  ⚡ &nbsp;I like clean, tool-like interfaces over glossy ones
+  ⚡ &nbsp;I like clean, tool like interfaces over glossy ones
 </p>
 
 <h3 align="center">🛠️ Stack</h3>
