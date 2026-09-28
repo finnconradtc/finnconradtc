@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,php,py,nodejs,express,discord,bots,discordjs,mysql,cs,dotnet,lua&perline=14" alt="Stack">
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,php,py,nodejs,express,discord,bots,discordjs,mysql,cs,dotnet&perline=14" alt="Stack">
 </p>
 
 <p align="center">
