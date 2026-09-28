@@ -8,11 +8,11 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,php,py,nodejs,express,mysql,cs,dotnet,lua&perline=12" alt="Stack">
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,php,py,nodejs,express,discordjs,mysql,cs,dotnet,lua&perline=13" alt="Stack">
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,webstorm,rider,idea,pycharm,phpstorm,notion&perline=12" alt="Tools">
+  <img src="https://skillicons.dev/icons?i=git,github,webstorm,rider,idea,pycharm,phpstorm,notion&perline=13" alt="Tools">
 </p>
 
 <br>
@@ -21,10 +21,4 @@
   <a href="https://discord.com/users/1314991090616766564">
     <img src="https://lanyard.cnrad.dev/api/1314991090616766564?hideDiscrim=true&borderRadius=10px" alt="Discord Presence">
   </a>
-</p>
-
-<p align="center">
-  <a href="https://xavoyx.me">xavoyx.me</a> ·
-  <a href="https://discord.com/users/1314991090616766564">Discord</a> ·
-  <a href="mailto:heyfnnc@gmail.com">E-Mail</a>
 </p>
