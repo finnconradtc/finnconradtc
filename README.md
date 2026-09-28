@@ -18,6 +18,12 @@
 <br>
 
 <p align="center">
+  <a href="https://discord.com/users/1314991090616766564">
+    <img src="https://lanyard.cnrad.dev/api/1314991090616766564?hideDiscrim=true&borderRadius=10px" alt="Discord Presence">
+  </a>
+</p>
+
+<p align="center">
   <a href="https://xavoyx.me">xavoyx.me</a> ·
   <a href="https://discord.com/users/1314991090616766564">Discord</a> ·
   <a href="mailto:heyfnnc@gmail.com">E-Mail</a>
