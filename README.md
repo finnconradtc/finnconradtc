@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <b>Project:</b> <a href="https://github.com/TakeGroup/TakeAdminDocs"><b>TakeGroup</b></a>, an admin menu for FiveM with ESX support
+  <b>Project:</b> <a href="https://github.com/orgs/TakeGroup/repositories"><b>TakeGroup</b></a>, an admin menu for FiveM with ESX support
 </p>
 
 <br>
