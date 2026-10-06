@@ -22,10 +22,6 @@
 </p>
 
 <p align="center">
-  <b>Project:</b> <a href="https://github.com/TakeAdminMenu/TakeAdmin"><b>TakeAdmin</b></a>, an admin menu for FiveM with ESX support
-</p>
-
-<p align="center">
   <b>Project:</b> <a href="https://github.com/MountainV"><b>MountainV</b></a>, a FiveM roleplay server
 </p>
 
