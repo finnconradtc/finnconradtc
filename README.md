@@ -1,7 +1,7 @@
 <h2 align="center">Hey, I'm Finn 👋</h2>
 
 <p align="center">
-  Aspiring software developer from Kassel, Germany · Building FiveM tools with <a href="https://github.com/TakeGroup"><b>TakeGroup</b></a><br>
+  Aspiring software developer from Kassel, Germany<br>
   Currently going deeper into C# &amp; .NET
 </p>
 
@@ -17,24 +17,17 @@
 
 <br>
 
-<h3 align="center">🚀 Projects</h3>
+<p align="center">
+  <b>Project:</b> <a href="https://github.com/TakeGroup"><b>TakeGroup</b></a>, menus &amp; scripts for FiveM
+</p>
 
-<table align="center">
-  <tr>
-    <td align="center" width="280">
-      <a href="https://github.com/TakeGroup"><b>TakeGroup</b></a><br>
-      <sub>Menus &amp; scripts for FiveM</sub><br><br>
-      <a href="https://github.com/TakeAdminMenu/TakeAdmin"><code>TakeAdmin</code></a> · Admin menu (ESX Legacy)<br>
-      <code>TakeJobs</code> · In-game job creator <i>(WIP)</i>
-    </td>
-    <td align="center" width="280">
-      <a href="https://github.com/MountainV"><b>MountainV – Roleplay</b></a><br>
-      <sub>FiveM roleplay server</sub><br><br>
-      ESX Legacy · txAdmin · Debian VPS<br>
-      🗓️ Launching before Christmas 2026
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <b>Project:</b> <a href="https://github.com/TakeAdminMenu/TakeAdmin"><b>TakeAdmin</b></a>, an admin menu for FiveM with ESX support
+</p>
+
+<p align="center">
+  <b>Project:</b> <a href="https://github.com/MountainV"><b>MountainV</b></a>, a FiveM roleplay server
+</p>
 
 <br>
 
