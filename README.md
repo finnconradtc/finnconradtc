@@ -1,7 +1,7 @@
 <h2 align="center">Hey, I'm Finn 👋</h2>
 
 <p align="center">
-  Aspiring software developer from Kassel, Germany<br>
+  Software developer from Kassel, Germany<br>
   Currently going deeper into C# &amp; .NET
 </p>
 
