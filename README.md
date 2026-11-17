@@ -8,11 +8,11 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,php,py,cs,dotnet,lua,mysql,discord,discordjs&perline=14" alt="Stack">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,py,lua,mysql,discord,discordjs&perline=14" alt="Stack">
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,idea,webstorm,phpstorm,pycharm,rider,notion&perline=14" alt="Tools">
+  <img src="https://skillicons.dev/icons?i=git,github,idea,webstorm,phpstorm,pycharm&perline=14" alt="Tools">
 </p>
 
 <br>
